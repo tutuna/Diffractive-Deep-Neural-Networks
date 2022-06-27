@@ -9,5 +9,4 @@ Some additional reference links:
 - [Simulating Diffraction Patterns with the Angular Spectrum Method and Python](https://rafael-fuente.github.io/simulating-diffraction-patterns-with-the-angular-spectrum-method-and-python.html)
 
 
-Demons and seperated tests of related scientific computing functions in python(i.e 2D Fourier transform and mesh grid) can refer to the following repo:
-https://github.com/0ce38a2b/Scientific-Programming
+Demons and seperated tests of related scientific computing functions in python(i.e 2D Fourier transform and mesh grid) can refer to this [repo](https://github.com/0ce38a2b/Scientific-Programming)
