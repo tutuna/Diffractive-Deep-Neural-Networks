@@ -17,3 +17,4 @@ Demons and seperated tests of related scientific computing functions in python(i
 
 ##### Anasys Lumerical FDTD:
 - [High-Performance Computing](https://optics.ansys.com/hc/en-us/categories/360002147933-High-Performance-Computing)
+- [Lumerical scripting language](https://optics.ansys.com/hc/en-us/articles/360037228834-Lumerical-scripting-language-By-category)
