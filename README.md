@@ -3,8 +3,8 @@ This repository is a reproduction of the code of the paper, "All-optical machine
 
 The calculation method of wave propagation can be found in the ./References folder.  
 ##### 1. Knowledge
-###### 1.1 Basic physic on Electricity and Magnetism
-- [University Physics ch.5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction)
+###### 1.1 Basic physic on Electricity and Magnetism (Ref: [University Physics ch.5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+ 
 ###### 1.2 Lectures:
 - [MIT 2.71 Optics, L11-13](https://ocw.mit.edu/courses/2-71-optics-spring-2009/video_galleries/video-lectures/)
 
