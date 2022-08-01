@@ -1,0 +1,2 @@
+model_checkpoint_path: "D2NN_phase_only"
+all_model_checkpoint_paths: "D2NN_phase_only"
