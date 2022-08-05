@@ -22,5 +22,5 @@ Demons and seperated tests of related scientific computing functions in python(i
 - [Lumerical scripting language](https://optics.ansys.com/hc/en-us/articles/360037228834-Lumerical-scripting-language-By-category)
 ###### 2.1 Theoretical part:
 - [Electromagnetic Plane Waves](https://courses.ansys.com/index.php/courses/electromagnetic-plane-waves/)
-###### 2.2 Practcal part:
+###### 2.2 Practical part:
 - [Photonics Engineering Courses](https://courses.ansys.com/index.php/photonics/)
