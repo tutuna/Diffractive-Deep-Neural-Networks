@@ -1,6 +1,16 @@
 # Diffractive-Deep-Neural-Networks
 This repository is a reproduction of the code of the paper, "All-optical machine learning using diffractive deep neural networks".
 
+<table>
+<td><img src="https://user-images.githubusercontent.com/51925070/198825113-f7f282d4-2809-4b7c-b425-ab846d9f297a.png" width="300" /></td>
+<td><img src="https://user-images.githubusercontent.com/51925070/198825170-36041e69-e9b7-485b-93d4-6581e527c4a0.png" width="300" /></td>
+</table>
+
+<table>
+<td><img src="https://user-images.githubusercontent.com/51925070/198825483-9610b64d-6966-4a06-9005-5d233021eebc.png" width="300" /></td>
+<td><img src="https://user-images.githubusercontent.com/51925070/198825513-7582163b-c55c-4f4c-9355-c811ba5a9a98.png" width="300" /></td>
+</table>
+
 The calculation method of wave propagation can be found in the ./References folder.  
 ##### 1. Knowledge
 ###### 1.1 Basic physic on Electricity and Magnetism (Ref: [University Physics ch.5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
